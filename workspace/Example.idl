@@ -1,0 +1,7 @@
+module ExampleModule {
+  @topic
+  struct ExampleMessage {
+      long id;
+      string text;
+  };
+};
