@@ -8,7 +8,8 @@
 
 ## Compile project
 ~~~bash
-cd /build
+mkdir /workspace/build
+cd /workspace/build
 cmake ..
 make
 ~~~
